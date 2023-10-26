@@ -11,7 +11,9 @@ You can find the database design at this URL: [Database Design](https://dbdiagra
 
 ## How to Start the App
 1. Activate the virtual environment: `source venv/bin/activate`
-2. Run the app using Uvicorn: `uvicorn uvicorn_conf:app --reload`
+2. install the requirement : pip install `pip install -r requirements.txt`
+3. Run the app using Uvicorn: `uvicorn uvicorn_conf:app --reload`
+
 
 ## My Approach
 I have primarily focused on scalability and speed in retrieving data from the database. Additionally, we can implement caching using Redis to further optimize performance.
