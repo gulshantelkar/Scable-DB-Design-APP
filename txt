@@ -1,0 +1,2 @@
+brew services start postgresql
+uvicorn uvicorn_conf:app --reload
