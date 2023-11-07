@@ -1,7 +1,8 @@
 # Scable-DB-Design-APP
 
 ## Database Design
-You can find the database design at this URL: [Database Design](https://dbdiagram.io/d/653a0decffbf5169f07cf1bc)
+<img width="1079" alt="image" src="https://github.com/gulshantelkar/Scable-DB-Design-APP/assets/99161604/a96b9ad6-0efb-4881-acc4-ea5384bcf440">
+
 
 ## Tech Stack
 - Language: Python
